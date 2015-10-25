@@ -7,3 +7,6 @@ Import data, look at distributions of individual columns, and save for future us
 
 ### (2) BuildRegressionModel
 Use data from previous step to predict counties with low inactivity.
+
+# Data source
+All data files and documentation were obtained from County Health Rankings & Roadmaps at http://www.countyhealthrankings.org/.
